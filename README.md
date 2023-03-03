@@ -1,8 +1,8 @@
 # ProgramacionIII-TPO
 
 ## Integrantes:
-## - Franco Toretta
-## - Gabriel Laporte
+## - Franco Toretta - LU: 1116495
+## - Gabriel Laporte - LU: 1021054
 
 En este TP se implementan 3 algoritmos conocidos de grafos.
 
