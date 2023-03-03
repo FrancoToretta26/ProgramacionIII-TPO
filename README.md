@@ -1,5 +1,9 @@
 # ProgramacionIII-TPO
 
+## Integrantes:
+## - Franco Toretta
+## - Gabriel Laporte
+
 En este TP se implementan 3 algoritmos conocidos de grafos.
 
 Dos de ellos cuyo objetivo es el de descubrir la totalidad de un grafo y uno encuentra el camino más corto entre un vertice origen y todos los vértices restantes del grafo.
@@ -55,10 +59,10 @@ La implementación entregada del algoritmo Dijkstra incluye un caso de prueba pa
 ![image](https://user-images.githubusercontent.com/68798898/222613275-3522872b-6701-4f01-bb1c-1efaa4b88ce8.png)
 
 ### Output
-`` Camino mas corto desde 1 a 1 = 0
-Camino mas corto desde 1 a 2 = 25
-Camino mas corto desde 1 a 3 = 35
-Camino mas corto desde 1 a 4 = 30
-Camino mas corto desde 1 a 5 = 10
-Camino mas corto desde 1 a 6 = 5``
+`` Camino mas corto desde 1 a 1 = 0``
+``Camino mas corto desde 1 a 2 = 25``
+``Camino mas corto desde 1 a 3 = 35``
+``Camino mas corto desde 1 a 4 = 30``
+``Camino mas corto desde 1 a 5 = 10``
+``Camino mas corto desde 1 a 6 = 5``
 
