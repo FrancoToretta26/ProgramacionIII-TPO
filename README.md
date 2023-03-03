@@ -20,3 +20,18 @@ La implementación entregada del algoritmo BFS incluye un caso de prueba para su
 
 ### Output
 `` 1,2,3,4,5,7,8,6``
+
+### -    DFS (Depth First Search)
+
+Segundo algoritmo implemetando de recorrida de grafos el cual se basa en recorrer la estructura en profundidad, para esto se utiliza una técnica recursiva implementada en la función dfsRecursivo() la cual recibe como parámetros:
+ - Integer verticeActual
+ - Set<Integer> visitados
+ - Grafo grafo
+
+  La función recorre a los vértices adyacentes, al vertice actual y por cada recursión imprime en consola el vértice visitado de forma secuencial.
+
+La implementación entregada del algoritmo DFS incluye un caso de prueba para su rápido testeo con el grafo dado a continuación:
+![image](https://user-images.githubusercontent.com/68798898/222610725-89043b21-f9a6-42f8-86f8-17f6d5e2f6f5.png)
+
+### Output
+`` 1,2,4,3,5,6``
